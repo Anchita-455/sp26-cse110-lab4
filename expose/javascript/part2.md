@@ -51,7 +51,7 @@
 
 18. check part2-question18.js file
 
-19. The output of the code is:
+19. The output of the code is: <br>
     1 <br>
     4 <br>
     3 <br>
