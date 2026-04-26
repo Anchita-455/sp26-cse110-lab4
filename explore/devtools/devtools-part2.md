@@ -1,0 +1,2 @@
+1. The bug happens because num1 and num2 are strings, so using + results in concatenation instead of addition as with numbers. 
+2. Converting num1 and num2 to numbers before passing it into calculateSum would fix the issue. 
